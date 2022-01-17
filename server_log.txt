@@ -1,0 +1,703 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:40:14] 
+[18:40:14] Server Plugins
+[18:40:14] --------------
+[18:40:14]  Loading plugin: streamer.dll
+[18:40:14] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:40:14]   Loaded.
+[18:40:14]  Loading plugin: dc_cmd.dll
+[18:40:14]   Daniel''s CMD plugin v2.01
+[18:40:14]   Loaded.
+[18:40:14]  Loading plugin: sscanf.dll
+[18:40:14] 
+
+[18:40:14]  ===============================
+
+[18:40:14]       sscanf plugin loaded.     
+
+[18:40:14]          Version:  2.8.2        
+
+[18:40:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:40:14]  ===============================
+
+[18:40:14]   Loaded.
+[18:40:14]  Loaded 3 plugins.
+
+[18:40:14] 
+[18:40:14] Filterscripts
+[18:40:14] ---------------
+[18:40:14]   Loading filterscript 'editor_obj.amx'...
+[18:40:14]   Unable to load filterscript 'editor_obj.amx'.
+[18:40:14]   Loading filterscript 'vae.amx'...
+[18:40:14]   Unable to load filterscript 'vae.amx'.
+[18:40:14]   Loading filterscript 'cameditor.amx'...
+[18:40:14]   Unable to load filterscript 'cameditor.amx'.
+[18:40:14]   Loaded 0 filterscripts.
+
+[18:40:14] 
+----------------------------------
+[18:40:14]  Blank Gamemode by your name here
+[18:40:14] ----------------------------------
+
+[18:40:14] Number of vehicle models: 0
+[18:40:40] [connection] 127.0.0.1:64112 requests connection cookie.
+[18:40:41] [connection] incoming connection: 127.0.0.1:64112 id: 0
+[18:40:41] [join] Sucker has joined the server (0:127.0.0.1)
+[18:40:56] -2024.178100 | -132.845703 | 34.890098
+[18:41:28] 1559.465698 | 16.280500 | 23.832500
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:50:00] 
+[18:50:00] Server Plugins
+[18:50:00] --------------
+[18:50:00]  Loading plugin: streamer.dll
+[18:50:00] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:50:00]   Loaded.
+[18:50:00]  Loading plugin: dc_cmd.dll
+[18:50:00]   Daniel''s CMD plugin v2.01
+[18:50:00]   Loaded.
+[18:50:00]  Loading plugin: sscanf.dll
+[18:50:00] 
+
+[18:50:00]  ===============================
+
+[18:50:00]       sscanf plugin loaded.     
+
+[18:50:00]          Version:  2.8.2        
+
+[18:50:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:50:00]  ===============================
+
+[18:50:00]   Loaded.
+[18:50:00]  Loaded 3 plugins.
+
+[18:50:00] 
+[18:50:00] Filterscripts
+[18:50:00] ---------------
+[18:50:00]   Loading filterscript 'editor_obj.amx'...
+[18:50:00]   Unable to load filterscript 'editor_obj.amx'.
+[18:50:00]   Loading filterscript 'vae.amx'...
+[18:50:00]   Unable to load filterscript 'vae.amx'.
+[18:50:00]   Loading filterscript 'cameditor.amx'...
+[18:50:00]   Unable to load filterscript 'cameditor.amx'.
+[18:50:00]   Loaded 0 filterscripts.
+
+[18:50:00] 
+----------------------------------
+[18:50:00]  Blank Gamemode by your name here
+[18:50:00] ----------------------------------
+
+[18:50:00] Number of vehicle models: 0
+[18:50:12] [connection] 127.0.0.1:62963 requests connection cookie.
+[18:50:13] [connection] incoming connection: 127.0.0.1:62963 id: 0
+[18:50:13] [join] Sucker has joined the server (0:127.0.0.1)
+[18:50:26] -2023.715820 | -149.978393 | 35.320301
+[18:50:50] -2074.363525 | -126.721397 | 35.040199
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:55:12] 
+[18:55:12] Server Plugins
+[18:55:12] --------------
+[18:55:12]  Loading plugin: streamer.dll
+[18:55:12] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:55:12]   Loaded.
+[18:55:12]  Loading plugin: dc_cmd.dll
+[18:55:12]   Daniel''s CMD plugin v2.01
+[18:55:12]   Loaded.
+[18:55:12]  Loading plugin: sscanf.dll
+[18:55:12] 
+
+[18:55:12]  ===============================
+
+[18:55:12]       sscanf plugin loaded.     
+
+[18:55:12]          Version:  2.8.2        
+
+[18:55:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:55:12]  ===============================
+
+[18:55:12]   Loaded.
+[18:55:12]  Loaded 3 plugins.
+
+[18:55:12] 
+[18:55:12] Filterscripts
+[18:55:12] ---------------
+[18:55:12]   Loading filterscript 'editor_obj.amx'...
+[18:55:12]   Unable to load filterscript 'editor_obj.amx'.
+[18:55:12]   Loading filterscript 'vae.amx'...
+[18:55:12]   Unable to load filterscript 'vae.amx'.
+[18:55:12]   Loading filterscript 'cameditor.amx'...
+[18:55:12]   Unable to load filterscript 'cameditor.amx'.
+[18:55:12]   Loaded 0 filterscripts.
+
+[18:55:12] 
+----------------------------------
+[18:55:12]  Blank Gamemode by your name here
+[18:55:12] ----------------------------------
+
+[18:55:12] Number of vehicle models: 0
+[18:55:27] [connection] 127.0.0.1:54541 requests connection cookie.
+[18:55:28] [connection] incoming connection: 127.0.0.1:54541 id: 0
+[18:55:28] [join] Sucker has joined the server (0:127.0.0.1)
+[18:55:41] -2023.715820 | -149.978393 | 35.320301
+[18:55:52] -2074.363525 | -126.721397 | 35.040199
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:59:22] 
+[18:59:22] Server Plugins
+[18:59:22] --------------
+[18:59:22]  Loading plugin: streamer.dll
+[18:59:22] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:59:22]   Loaded.
+[18:59:22]  Loading plugin: dc_cmd.dll
+[18:59:22]   Daniel''s CMD plugin v2.01
+[18:59:22]   Loaded.
+[18:59:22]  Loading plugin: sscanf.dll
+[18:59:22] 
+
+[18:59:22]  ===============================
+
+[18:59:22]       sscanf plugin loaded.     
+
+[18:59:22]          Version:  2.8.2        
+
+[18:59:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:59:22]  ===============================
+
+[18:59:22]   Loaded.
+[18:59:22]  Loaded 3 plugins.
+
+[18:59:22] 
+[18:59:22] Filterscripts
+[18:59:22] ---------------
+[18:59:22]   Loading filterscript 'editor_obj.amx'...
+[18:59:22]   Unable to load filterscript 'editor_obj.amx'.
+[18:59:22]   Loading filterscript 'vae.amx'...
+[18:59:22]   Unable to load filterscript 'vae.amx'.
+[18:59:22]   Loading filterscript 'cameditor.amx'...
+[18:59:22]   Unable to load filterscript 'cameditor.amx'.
+[18:59:22]   Loaded 0 filterscripts.
+
+[18:59:22] 
+----------------------------------
+[18:59:22]  Blank Gamemode by your name here
+[18:59:22] ----------------------------------
+
+[18:59:22] Number of vehicle models: 0
+[18:59:27] [connection] 127.0.0.1:54727 requests connection cookie.
+[18:59:28] [connection] incoming connection: 127.0.0.1:54727 id: 0
+[18:59:28] [join] Sucker has joined the server (0:127.0.0.1)
+[18:59:53] -2023.715820 | -149.978393 | 35.320301
+[19:00:04] -2074.363525 | -126.721397 | 35.040199
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:00:31] 
+[19:00:31] Server Plugins
+[19:00:31] --------------
+[19:00:31]  Loading plugin: streamer.dll
+[19:00:31] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[19:00:31]   Loaded.
+[19:00:31]  Loading plugin: dc_cmd.dll
+[19:00:31]   Daniel''s CMD plugin v2.01
+[19:00:31]   Loaded.
+[19:00:31]  Loading plugin: sscanf.dll
+[19:00:31] 
+
+[19:00:31]  ===============================
+
+[19:00:31]       sscanf plugin loaded.     
+
+[19:00:31]          Version:  2.8.2        
+
+[19:00:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:00:31]  ===============================
+
+[19:00:31]   Loaded.
+[19:00:31]  Loaded 3 plugins.
+
+[19:00:31] 
+[19:00:31] Filterscripts
+[19:00:31] ---------------
+[19:00:31]   Loading filterscript 'editor_obj.amx'...
+[19:00:31]   Unable to load filterscript 'editor_obj.amx'.
+[19:00:31]   Loading filterscript 'vae.amx'...
+[19:00:31]   Unable to load filterscript 'vae.amx'.
+[19:00:31]   Loading filterscript 'cameditor.amx'...
+[19:00:31]   Unable to load filterscript 'cameditor.amx'.
+[19:00:31]   Loaded 0 filterscripts.
+
+[19:00:31] 
+----------------------------------
+[19:00:31]  Blank Gamemode by your name here
+[19:00:31] ----------------------------------
+
+[19:00:31] Number of vehicle models: 0
+[19:00:51] [connection] 127.0.0.1:53601 requests connection cookie.
+[19:00:52] [connection] incoming connection: 127.0.0.1:53601 id: 0
+[19:00:52] [join] Sucker has joined the server (0:127.0.0.1)
+[19:01:06] -2023.715820 | -149.978393 | 35.320301
+[19:01:17] -2074.363525 | -126.721397 | 35.040199
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:11:48] 
+[19:11:48] Server Plugins
+[19:11:48] --------------
+[19:11:48]  Loading plugin: streamer.dll
+[19:11:48] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[19:11:48]   Loaded.
+[19:11:48]  Loading plugin: dc_cmd.dll
+[19:11:48]   Daniel''s CMD plugin v2.01
+[19:11:48]   Loaded.
+[19:11:48]  Loading plugin: sscanf.dll
+[19:11:48] 
+
+[19:11:48]  ===============================
+
+[19:11:48]       sscanf plugin loaded.     
+
+[19:11:48]          Version:  2.8.2        
+
+[19:11:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:11:48]  ===============================
+
+[19:11:48]   Loaded.
+[19:11:48]  Loaded 3 plugins.
+
+[19:11:48] 
+[19:11:48] Filterscripts
+[19:11:48] ---------------
+[19:11:48]   Loading filterscript 'editor_obj.amx'...
+[19:11:48]   Unable to load filterscript 'editor_obj.amx'.
+[19:11:48]   Loading filterscript 'vae.amx'...
+[19:11:48]   Unable to load filterscript 'vae.amx'.
+[19:11:48]   Loading filterscript 'cameditor.amx'...
+[19:11:48]   Unable to load filterscript 'cameditor.amx'.
+[19:11:48]   Loaded 0 filterscripts.
+
+[19:11:48] 
+----------------------------------
+[19:11:48]  Blank Gamemode by your name here
+[19:11:48] ----------------------------------
+
+[19:11:48] Number of vehicle models: 0
+[19:11:51] [connection] 127.0.0.1:51508 requests connection cookie.
+[19:11:52] [connection] incoming connection: 127.0.0.1:51508 id: 0
+[19:11:52] [join] Sucker has joined the server (0:127.0.0.1)
+[19:12:06] -2023.715820 | -149.978393 | 35.320301
+[19:12:15] -2074.363525 | -126.721397 | 35.040199
+[19:12:34] -2234.199951 | -1742.768432 | 480.209503
+[19:13:47] -2024.178100 | -132.845703 | 34.890098
+[19:15:09] -1981.974975 | 1118.192138 | 52.944599
+[20:02:04] [part] Sucker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:54:42] 
+[04:54:42] Server Plugins
+[04:54:42] --------------
+[04:54:42]  Loading plugin: streamer.dll
+[04:54:42] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[04:54:42]   Loaded.
+[04:54:42]  Loading plugin: dc_cmd.dll
+[04:54:42]   Daniel''s CMD plugin v2.01
+[04:54:42]   Loaded.
+[04:54:42]  Loading plugin: sscanf.dll
+[04:54:42] 
+
+[04:54:42]  ===============================
+
+[04:54:42]       sscanf plugin loaded.     
+
+[04:54:42]          Version:  2.8.2        
+
+[04:54:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:54:42]  ===============================
+
+[04:54:42]   Loaded.
+[04:54:42]  Loaded 3 plugins.
+
+[04:54:42] 
+[04:54:42] Filterscripts
+[04:54:42] ---------------
+[04:54:42]   Loading filterscript 'editor_obj.amx'...
+[04:54:42]   Unable to load filterscript 'editor_obj.amx'.
+[04:54:42]   Loading filterscript 'vae.amx'...
+[04:54:42]   Unable to load filterscript 'vae.amx'.
+[04:54:42]   Loading filterscript 'cameditor.amx'...
+[04:54:42]   Unable to load filterscript 'cameditor.amx'.
+[04:54:42]   Loaded 0 filterscripts.
+
+[04:54:42] 
+----------------------------------
+[04:54:42]  Blank Gamemode by your name here
+[04:54:42] ----------------------------------
+
+[04:54:42] Number of vehicle models: 0
+[10:09:34] [connection] 127.0.0.1:53486 requests connection cookie.
+[10:09:35] [connection] incoming connection: 127.0.0.1:53486 id: 0
+[10:09:35] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:09:45] [part] Graham_Coxon has left the server (0:1)
+[10:10:39] [connection] 127.0.0.1:57184 requests connection cookie.
+[10:10:40] [connection] incoming connection: 127.0.0.1:57184 id: 0
+[10:10:41] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:11:34] [part] Graham_Coxon has left the server (0:1)
+[10:20:31] [connection] 127.0.0.1:63446 requests connection cookie.
+[10:20:32] [connection] incoming connection: 127.0.0.1:63446 id: 0
+[10:20:38] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:20:50] [part] Graham_Coxon has left the server (0:1)
+[10:22:49] [connection] 127.0.0.1:61562 requests connection cookie.
+[10:22:50] [connection] incoming connection: 127.0.0.1:61562 id: 0
+[10:22:50] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:23:04] [part] Graham_Coxon has left the server (0:1)
+[10:25:06] [connection] 127.0.0.1:54654 requests connection cookie.
+[10:25:07] [connection] incoming connection: 127.0.0.1:54654 id: 0
+[10:25:07] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:26:13] [part] Graham_Coxon has left the server (0:1)
+[10:26:28] [connection] 127.0.0.1:56164 requests connection cookie.
+[10:26:29] [connection] incoming connection: 127.0.0.1:56164 id: 0
+[10:26:29] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:29:41] [connection] 127.0.0.1:50155 requests connection cookie.
+[10:29:41] [connection] incoming connection: 127.0.0.1:50155 id: 1
+[10:29:41] [join] [LWG]Qovqg73 has joined the server (1:127.0.0.1)
+[10:30:08] [connection] 127.0.0.1:59562 requests connection cookie.
+[10:30:09] [connection] incoming connection: 127.0.0.1:59562 id: 2
+[10:30:11] [part] [LWG]Qovqg73 has left the server (1:0)
+[10:30:12] [part] Graham_Coxon has left the server (0:0)
+[10:30:28] [connection] 127.0.0.1:60055 requests connection cookie.
+[10:30:29] [connection] incoming connection: 127.0.0.1:60055 id: 0
+[10:30:30] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:46:25] [part] Graham_Coxon has left the server (0:1)
+[10:48:16] [connection] 127.0.0.1:60021 requests connection cookie.
+[10:48:17] [connection] incoming connection: 127.0.0.1:60021 id: 0
+[10:48:17] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:48:33] [part] Graham_Coxon has left the server (0:0)
+[10:49:00] [connection] 127.0.0.1:58730 requests connection cookie.
+[10:49:01] [connection] incoming connection: 127.0.0.1:58730 id: 0
+[10:49:01] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:49:17] [part] Graham_Coxon has left the server (0:0)
+[10:49:37] [connection] 127.0.0.1:53987 requests connection cookie.
+[10:49:38] [connection] incoming connection: 127.0.0.1:53987 id: 0
+[10:49:38] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:49:54] [part] Graham_Coxon has left the server (0:0)
+[10:50:15] [connection] 127.0.0.1:51024 requests connection cookie.
+[10:50:16] [connection] incoming connection: 127.0.0.1:51024 id: 0
+[10:50:16] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:50:32] [part] Graham_Coxon has left the server (0:0)
+[10:51:23] [connection] 127.0.0.1:56607 requests connection cookie.
+[10:51:24] [connection] incoming connection: 127.0.0.1:56607 id: 0
+[10:51:25] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[10:51:41] [part] Graham_Coxon has left the server (0:0)
+[10:55:34] [connection] 127.0.0.1:58530 requests connection cookie.
+[10:55:35] [connection] incoming connection: 127.0.0.1:58530 id: 0
+[10:55:42] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:01:57] 
+[11:01:57] Server Plugins
+[11:01:57] --------------
+[11:01:57]  Loading plugin: streamer.dll
+[11:01:57] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[11:01:57]   Loaded.
+[11:01:57]  Loading plugin: dc_cmd.dll
+[11:01:57]   Daniel''s CMD plugin v2.01
+[11:01:57]   Loaded.
+[11:01:57]  Loading plugin: sscanf.dll
+[11:01:57] 
+
+[11:01:57]  ===============================
+
+[11:01:57]       sscanf plugin loaded.     
+
+[11:01:57]          Version:  2.8.2        
+
+[11:01:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:01:57]  ===============================
+
+[11:01:57]   Loaded.
+[11:01:57]  Loaded 3 plugins.
+
+[11:01:57] 
+[11:01:57] Filterscripts
+[11:01:57] ---------------
+[11:01:57]   Loading filterscript 'editor_obj.amx'...
+[11:01:57]   Unable to load filterscript 'editor_obj.amx'.
+[11:01:57]   Loading filterscript 'vae.amx'...
+[11:01:57]   Unable to load filterscript 'vae.amx'.
+[11:01:57]   Loading filterscript 'cameditor.amx'...
+[11:01:57]   Unable to load filterscript 'cameditor.amx'.
+[11:01:57]   Loaded 0 filterscripts.
+
+[11:01:58] 
+----------------------------------
+[11:01:58]  Blank Gamemode by your name here
+[11:01:58] ----------------------------------
+
+[11:01:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:03:37] 
+[11:03:37] Server Plugins
+[11:03:37] --------------
+[11:03:37]  Loading plugin: streamer.dll
+[11:03:37] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[11:03:37]   Loaded.
+[11:03:37]  Loading plugin: dc_cmd.dll
+[11:03:37]   Daniel''s CMD plugin v2.01
+[11:03:37]   Loaded.
+[11:03:37]  Loading plugin: sscanf.dll
+[11:03:37] 
+
+[11:03:37]  ===============================
+
+[11:03:37]       sscanf plugin loaded.     
+
+[11:03:37]          Version:  2.8.2        
+
+[11:03:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:03:37]  ===============================
+
+[11:03:37]   Loaded.
+[11:03:37]  Loaded 3 plugins.
+
+[11:03:37] 
+[11:03:37] Filterscripts
+[11:03:37] ---------------
+[11:03:37]   Loading filterscript 'editor_obj.amx'...
+[11:03:37]   Unable to load filterscript 'editor_obj.amx'.
+[11:03:37]   Loading filterscript 'vae.amx'...
+[11:03:37]   Unable to load filterscript 'vae.amx'.
+[11:03:37]   Loading filterscript 'cameditor.amx'...
+[11:03:37]   Unable to load filterscript 'cameditor.amx'.
+[11:03:37]   Loaded 0 filterscripts.
+
+[11:03:37] 
+----------------------------------
+[11:03:37]  Blank Gamemode by your name here
+[11:03:37] ----------------------------------
+
+[11:03:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:04:11] 
+[11:04:11] Server Plugins
+[11:04:11] --------------
+[11:04:11]  Loading plugin: streamer.dll
+[11:04:11] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[11:04:11]   Loaded.
+[11:04:11]  Loading plugin: dc_cmd.dll
+[11:04:11]   Daniel''s CMD plugin v2.01
+[11:04:11]   Loaded.
+[11:04:11]  Loading plugin: sscanf.dll
+[11:04:11] 
+
+[11:04:11]  ===============================
+
+[11:04:11]       sscanf plugin loaded.     
+
+[11:04:11]          Version:  2.8.2        
+
+[11:04:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:04:11]  ===============================
+
+[11:04:11]   Loaded.
+[11:04:11]  Loaded 3 plugins.
+
+[11:04:12] 
+[11:04:12] Filterscripts
+[11:04:12] ---------------
+[11:04:12]   Loading filterscript 'editor_obj.amx'...
+[11:04:12]   Unable to load filterscript 'editor_obj.amx'.
+[11:04:12]   Loading filterscript 'vae.amx'...
+[11:04:12]   Unable to load filterscript 'vae.amx'.
+[11:04:12]   Loading filterscript 'cameditor.amx'...
+[11:04:12]   Unable to load filterscript 'cameditor.amx'.
+[11:04:12]   Loaded 0 filterscripts.
+
+[11:04:12] 
+----------------------------------
+[11:04:12]  Blank Gamemode by your name here
+[11:04:12] ----------------------------------
+
+[11:04:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:12:59] 
+[11:12:59] Server Plugins
+[11:12:59] --------------
+[11:12:59]  Loading plugin: streamer.dll
+[11:12:59] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[11:12:59]   Loaded.
+[11:12:59]  Loading plugin: dc_cmd.dll
+[11:12:59]   Daniel''s CMD plugin v2.01
+[11:12:59]   Loaded.
+[11:12:59]  Loading plugin: sscanf.dll
+[11:12:59] 
+
+[11:12:59]  ===============================
+
+[11:12:59]       sscanf plugin loaded.     
+
+[11:12:59]          Version:  2.8.2        
+
+[11:12:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:12:59]  ===============================
+
+[11:12:59]   Loaded.
+[11:12:59]  Loaded 3 plugins.
+
+[11:12:59] 
+[11:12:59] Filterscripts
+[11:12:59] ---------------
+[11:12:59]   Loading filterscript 'editor_obj.amx'...
+[11:12:59]   Unable to load filterscript 'editor_obj.amx'.
+[11:12:59]   Loading filterscript 'vae.amx'...
+[11:12:59]   Unable to load filterscript 'vae.amx'.
+[11:12:59]   Loading filterscript 'cameditor.amx'...
+[11:12:59]   Unable to load filterscript 'cameditor.amx'.
+[11:12:59]   Loaded 0 filterscripts.
+
+[11:12:59] 
+----------------------------------
+[11:12:59]  Blank Gamemode by your name here
+[11:12:59] ----------------------------------
+
+[11:12:59] Number of vehicle models: 0
+[03:32:40] [connection] 127.0.0.1:64835 requests connection cookie.
+[03:32:41] [connection] incoming connection: 127.0.0.1:64835 id: 0
+[03:32:41] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[03:32:53] [part] Graham_Coxon has left the server (0:1)
+[03:33:26] [connection] 127.0.0.1:49387 requests connection cookie.
+[03:33:27] [connection] incoming connection: 127.0.0.1:49387 id: 0
+[03:33:27] [join] Graham_Coxon has joined the server (0:127.0.0.1)
+[03:37:33] -2023.715820 | -149.978393 | 35.320301
+[03:38:07] -2074.363525 | -126.721397 | 35.040199
+[03:38:30] -2234.199951 | -1742.768432 | 480.209503
+[03:39:47] -1981.974975 | 1118.192138 | 52.944599
+[03:43:33] 1552.071533 | -1365.868774 | 329.031890
+[03:44:02] 1552.071533 | -1365.868774 | 329.031890
+[03:44:22] 1552.071533 | -1365.868774 | 329.031890
+[03:45:07] 1552.071533 | -1365.868774 | 329.031890
+[03:46:04] -761.218627 | -2045.398315 | 4.998300
+[03:46:19] -1465.220703 | 692.349487 | -0.655300
+[03:48:04] [part] Graham_Coxon has left the server (0:1)
